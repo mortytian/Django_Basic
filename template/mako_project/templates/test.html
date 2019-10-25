@@ -1,0 +1,11 @@
+<%inherit file="base.html" />
+
+<%def name="main()">
+<h1>hello mako</h1>
+<%include file="extend.html" args="local_content='你好 make'" />
+</%def>
+
+<%def name="title()">test</%def>
+<%def name="css()">
+<link rel = "stylesheet" href="/static/test.css" />
+</%def>

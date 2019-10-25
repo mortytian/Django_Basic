@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block css_style %}
+
+<link rel = "stylesheet" href="/static/test.css" />
+{% endblock %}
+{%  block content %}
+{{name|title}},{{age|test(10)}}
+{% endblock%}
