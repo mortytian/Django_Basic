@@ -125,3 +125,57 @@ fff
 
 ![image-20191030221323463](https://tva1.sinaimg.cn/large/006y8mN6ly1g8gl2qculqj30yu0naaci.jpg)
 
+## 查询方法 
+
+![image-20191101195202782](https://tva1.sinaimg.cn/large/006y8mN6ly1g8is8ay734j31ci0l4jx7.jpg)
+
+![image-20191101195245561](https://tva1.sinaimg.cn/large/006y8mN6ly1g8is8ylcfzj31bf0u0ncu.jpg)
+
+
+
+![image-20191101200222870](https://tva1.sinaimg.cn/large/006y8mN6ly1g8isiympvjj31aw0ti7fi.jpg)
+
+
+
+![image-20191101200726727](../Library/Application Support/typora-user-images/image-20191101200726727.png)
+
+
+
+![image-20191101200904097](https://tva1.sinaimg.cn/large/006y8mN6ly1g8ispzabkpj31bm0lwdkd.jpg)
+
+
+
+
+
+![image-20191101200948938](https://tva1.sinaimg.cn/large/006y8mN6ly1g8isqrswc7j30wk0sqdnb.jpg)
+
+
+
+## 反向查询
+
+![image-20191101201109350](https://tva1.sinaimg.cn/large/006y8mN6ly1g8iss73smxj317o0n0qfw.jpg)
+
+
+
+## 多表查询之查询关联信息
+
+![image-20191101201213192](https://tva1.sinaimg.cn/large/006y8mN6ly1g8ist7vbobj31gi0qek54.jpg)
+
+
+
+## SQLALchemy
+
+![image-20191101205107087](../Library/Application Support/typora-user-images/image-20191101205107087.png)
+
+
+
+![image-20191101205146632](https://tva1.sinaimg.cn/large/006y8mN6ly1g8itygrd0dj31520s47g5.jpg)
+
+![image-20191101205314960](https://tva1.sinaimg.cn/large/006y8mN6ly1g8iu0257wzj31cc0qqtle.jpg)
+
+
+
+
+
+![image-20191101205402474](https://tva1.sinaimg.cn/large/006y8mN6ly1g8iu0s74xij31dk0pmn7o.jpg)
+
