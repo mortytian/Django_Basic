@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<form action = "{% url 'register' %}" method="POST">
+    {% csrf_token %}
+    {% for item in form %}
+    <div>
+        <label for="{{item.id_for_label}}">{{item.label}}</label>
+        {{item}}
+        <p>{{item.errors.as_test}}</p>
+    </div>
+    {% endfor %}
+    <span>{{form.non_filed_errors.as_test}}</span>
+
+<!--    <div class="fieldwrapper">-->
+<!--        {{form.subject.errors}}-->
+<!--        <laber for="{{form.username.id_for_label}}">username:</laber>-->
+<!--        {{form.username}}-->
+<!--        <laber for="{{form.password.id_for_label}}">password:</laber>-->
+<!--        {{form.password}}-->
+<!--    </div>-->
+
+<!--    <input tpye="text" name="username" placeholder="用户名" /> </br>-->
+<!--    <input type="password" name="password" placeholder="密码"/> </br>-->
+    <input type="submit" value="提交" />
+
+</form>
+</body>
+</html>
