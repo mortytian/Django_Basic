@@ -1,0 +1,25 @@
+{% load custom %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<ul>
+
+    {% for message in messages %}
+        <li style="color:{{message.get_message_type.color}}">
+            {{message.id}}
+            {{message.content}}
+            {{message.create_time|show_time}}
+            <a href="FourPageThree?id={{message.id}}">delete</a>
+
+        </li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
