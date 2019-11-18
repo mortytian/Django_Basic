@@ -12,10 +12,12 @@
     <div>
         <label for="{{item.id_for_label}}">{{item.label}}</label>
         {{item}}
-        <p>{{item.errors.as_test}}</p>
+        <p>{{item.errors.as_text}}</p>
     </div>
     {% endfor %}
-    <span>{{form.non_filed_errors.as_test}}</span>
+    <span>{{form.non_field_errors}}</span>
+
+
 
 <!--    <div class="fieldwrapper">-->
 <!--        {{form.subject.errors}}-->
@@ -25,6 +27,7 @@
 <!--        {{form.password}}-->
 <!--    </div>-->
 
+<!--    # 使用html自带表单的方法-->
 <!--    <input tpye="text" name="username" placeholder="用户名" /> </br>-->
 <!--    <input type="password" name="password" placeholder="密码"/> </br>-->
     <input type="submit" value="提交" />
