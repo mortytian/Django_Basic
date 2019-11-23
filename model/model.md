@@ -23,7 +23,7 @@
 
 
 
-![image-20191028203654412](../Library/Application Support/typora-user-images/image-20191028203654412.png)
+![image-20191112212245793](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vknz9tl2j31730u0tv1.jpg)
 
 
 
@@ -47,7 +47,15 @@ form django.db import models
 
 models.CharField..
 
-![image-20191030110104121](../Library/Application Support/typora-user-images/image-20191030110104121.png)
+
+
+![image-20191112212225537](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vknq3i6pj313m0u0dvm.jpg)
+
+
+
+
+
+
 
 
 
@@ -68,7 +76,9 @@ TextField 长文本
 
 ![image-20191030110458288](https://tva1.sinaimg.cn/large/006y8mN6ly1g8g1raj97oj31fk0u0wsm.jpg)
 
-![image-20191030110608093](../Library/Application Support/typora-user-images/image-20191030110608093.png)
+
+
+![image-20191112213025327](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vkvy1k7gj31610u0k6a.jpg)
 
 最后一个为 db_index
 
@@ -138,6 +148,10 @@ TextField 长文本
 
 
 ![image-20191101200726727](../Library/Application Support/typora-user-images/image-20191101200726727.png)
+
+
+
+
 
 
 
